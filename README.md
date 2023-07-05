@@ -4,7 +4,7 @@ tsak_1: Solving all the questions in the string.cpp file. files: string.cpp.
 
 task_2_1: Implements the Course class. files: course.hpp, course.cpp.
 
-task_2_3: Implements the Student class. files: student.hpp, student.cpp.
+task_2_2: Implements the Student class. files: student.hpp, student.cpp.
 
 task_2_3: The main function. Shows the user a menu with several possible actions. files: school.cpp.
 
